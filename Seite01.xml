@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Briefwechsel zwischen einem Vater und seinem Sohn auf der Akademie</title>
+        <title type="sub">Allen rechtschaffenen Vätern, und ihren studierenden Söhnen gewidmet</title>
+        <author>
+          <persName>
+            <surname>Miller</surname>
+            <forename>Johann Martin</forename>
+          </persName>
+        </author>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-03-14T11:14:50Z</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M"/>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Briefwechsel zwischen einem Vater und seinem Sohn auf der Akademie</title>
+          <title level="m" type="sub">Allen rechtschaffenen Vätern, und ihren studierenden Söhnen gewidmet</title>
+            <author>
+              <persName>
+                <surname>Miller</surname>
+                <forename>Johann Martin</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher/>
+              <pubPlace> Ulm</pubPlace>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+            Bogensignaturen: keine Angabe;
+            Druckfehler: keine Angabe;
+            fremdsprachliches Material: keine Angabe;
+            Geminations-/Abkürzungsstriche: keine Angabe;
+            Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+            i/j in Fraktur: keine Angabe;
+            I/J in Fraktur: keine Angabe;
+            Kolumnentitel: keine Angabe;
+            Kustoden: keine Angabe;
+            langes s (ſ): keine Angabe;
+            Normalisierungen: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
+            Seitenumbrüche markiert: keine Angabe;
+            Silbentrennung: keine Angabe;
+            u/v bzw. U/V: keine Angabe;
+            Vokale mit übergest. e: keine Angabe;
+            Vollständigkeit: keine Angabe;
+            Zeichensetzung: keine Angabe;
+            Zeilenumbrüche markiert: keine Angabe;
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+ <text>
+ <body>
+ <p>eigenen Thorheiten, und so mancher 
+ley Abwegen, die vom Zweck, um dessen
+willen Eltern ihre Söhne auf Universi 
+täten schicken, abführen, bekannt ma 
+chen, und sie hingegen zu weiser, ge-
+wissenhafter Benutzung und Anwendung
+dieser, in aller Absicht so kostbaren Zeit
+mit anreitzen könnte. Ob nun gleich
+wie ich selber sichere Proben davon ha-
+be, diese Absicht nicht ganz unerreicht
+blieb, so konnt ich doch leicht einsehen
+daß sie nie ganz durch ein Buch erreicht
+werden könne, in dem blos nur junge,
+selbst noch unerfahrne Leute an einander
+schreiben, in deren Munde manche von
+männlicher Klugheit und langwieriger
+Erfahrung eingegebene Lehren und Re-
+geln nicht zum besten klingen würden.
+Ich trug daher schon seit mehrern
+Jahren den Gedanken mit mir herum,
+noch ein andres Buch bekannt zu ma 
+chen und jungen Studierenden in die
+Hände zu geben, das dadurch, daß ein
+alter
+
+Text Recognition powered by transkribus.ai</p>
+ </body>
+ </text>
+</TEI>
