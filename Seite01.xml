@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,7 +62,7 @@
         </biblFull>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
       <editorialDecl>
         <p>
             Bogensignaturen: keine Angabe;
@@ -77,7 +76,7 @@
             Kustoden: keine Angabe;
             langes s (ſ): keine Angabe;
             Normalisierungen: keine Angabe;
-            rundes r (&amp;#xa75b;): keine Angabe;
+            rundes r (ꝛ): keine Angabe;
             Seitenumbrüche markiert: keine Angabe;
             Silbentrennung: keine Angabe;
             u/v bzw. U/V: keine Angabe;
@@ -97,22 +96,19 @@
  <body>
  <p>eigenen Thorheiten, und so mancher 
 ley Abwegen, die vom Zweck, um dessen
-willen Eltern ihre Söhne auf Universi 
-täten schicken, abführen, bekannt ma 
+willen Eltern ihre Söhne auf Universitäten schicken, abführen, bekannt ma 
 chen, und sie hingegen zu weiser, ge-
 wissenhafter Benutzung und Anwendung
 dieser, in aller Absicht so kostbaren Zeit
 mit anreitzen könnte. Ob nun gleich
-wie ich selber sichere Proben davon ha-
-be, diese Absicht nicht ganz unerreicht
+wie ich selber sichere Proben davon habe, diese Absicht nicht ganz unerreicht
 blieb, so konnt ich doch leicht einsehen
 daß sie nie ganz durch ein Buch erreicht
 werden könne, in dem blos nur junge,
 selbst noch unerfahrne Leute an einander
 schreiben, in deren Munde manche von
 männlicher Klugheit und langwieriger
-Erfahrung eingegebene Lehren und Re-
-geln nicht zum besten klingen würden.
+Erfahrung eingegebene Lehren und Regeln nicht zum besten klingen würden.
 Ich trug daher schon seit mehrern
 Jahren den Gedanken mit mir herum,
 noch ein andres Buch bekannt zu ma 
